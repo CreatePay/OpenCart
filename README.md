@@ -4,16 +4,11 @@ Payment module for OpenCart
 
 Disclaimer: Please note that we no longer support older versions of SDKs and Modules. We recommend that the latest versions are used.
 
-README
-Contents
-Introduction
-Prerequisites
-Installing and configuring the module
-License
-Introduction
+
 This OpenCart module provides an easy method to integrate with the payment gateway.
 
 Supports Open versions: 3.X
+
 Prerequisites
 The module requires the following prerequisites to be met in order to function correctly:
 The 'bcmath' php extension module: https://www.php.net/manual/en/book.bc.php
